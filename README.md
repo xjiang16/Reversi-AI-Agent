@@ -40,6 +40,7 @@ The DQN takes the board state as input and outputs Q-values for all possible mov
 The trained agent consistently outperforms the greedy baseline, demonstrating improved long-term decision-making and stronger positional strategy compared to short-term heuristics.
 
 ## Repository Structure
+```
 Reversi-AI-Agent/
 │
 ├── provided/                     # Professor-provided code (environment + baseline)
@@ -57,6 +58,7 @@ Reversi-AI-Agent/
 │
 ├── README.md
 └── .gitignore
+```
 
 ## Key Files
 Provided (not authored by me):
